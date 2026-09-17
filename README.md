@@ -27,6 +27,7 @@
 | [0047-permutations-ii](https://github.com/Pavandeep6420/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Pavandeep6420/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Pavandeep6420/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Pavandeep6420/Leetcode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [0040-combination-sum-ii](https://github.com/Pavandeep6420/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Pavandeep6420/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pavandeep6420/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Pavandeep6420/Leetcode/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pavandeep6420/Leetcode/tree/master/0043-multiply-strings) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Pavandeep6420/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
