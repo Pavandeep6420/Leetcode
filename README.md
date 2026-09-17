@@ -29,6 +29,7 @@
 | [0049-group-anagrams](https://github.com/Pavandeep6420/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Pavandeep6420/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Pavandeep6420/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Pavandeep6420/Leetcode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pavandeep6420/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Pavandeep6420/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Pavandeep6420/Leetcode/tree/master/0054-spiral-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pavandeep6420/Leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Pavandeep6420/Leetcode/tree/master/0054-spiral-matrix) |
 ## Algorithm X
 |  |
 | ------- |
